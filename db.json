@@ -1,25 +1,29 @@
 {
-  "video":[
+  "products":[
     {
       "id" : 1,
+      "rating":4,
       "title": "1st post!",
       "VideoLink" : "https://static.videezy.com/system/resources/previews/000/019/339/original/Corporate_Presentation_Slide_Premiere_Mogrt_Template_10_Preview.mp4",
       "imageLink":"https://firebasestorage.googleapis.com/v0/b/saathhealth-f231b.appspot.com/o/27218.jpg?alt=media&token=4339af16-570a-49bd-a747-0bb9f66c464a"
     },
     {
       "id" : 2,
+      "rating":4,
       "title": "2nd post!",
       "VideoLink" : "https://static.videezy.com/system/resources/previews/000/020/403/original/Modern_Typography_Titles_After_Effects_Template_10_Preview.mp4",
       "imageLink":"https://firebasestorage.googleapis.com/v0/b/saathhealth-f231b.appspot.com/o/27218.jpg?alt=media&token=4339af16-570a-49bd-a747-0bb9f66c464a"
     },
     {
       "id" : 3,
+      "rating":5,
       "title": "3rd post!",
       "VideoLink" : "https://static.videezy.com/system/resources/previews/000/020/403/original/Modern_Typography_Titles_After_Effects_Template_10_Preview.mp4",
       "imageLink":"https://firebasestorage.googleapis.com/v0/b/saathhealth-f231b.appspot.com/o/27218.jpg?alt=media&token=4339af16-570a-49bd-a747-0bb9f66c464a"
     },
     {
       "id" : 4,
+      "rating":1,
       "title": "4th post!",
       "VideoLink" : "https://static.videezy.com/system/resources/previews/000/020/403/original/Modern_Typography_Titles_After_Effects_Template_10_Preview.mp4",
       "imageLink":"https://firebasestorage.googleapis.com/v0/b/saathhealth-f231b.appspot.com/o/27218.jpg?alt=media&token=4339af16-570a-49bd-a747-0bb9f66c464a"
